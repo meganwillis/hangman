@@ -1,0 +1,31 @@
+body{font-family: 'PT Sans', sans-serif;}
+.box{
+	background-color: #eee;
+	display: inline-block;
+	margin-right: 5px;
+	padding: 10px;
+	text-align: center;
+	text-decoration: underline;
+	width: 15px;
+}
+.hasletter{
+	text-decoration: none;
+}
+#wrongguesses{
+	margin-top: 30px;
+	padding: 10px;
+	height: 50px;
+}
+.wrongletter{
+	display: inline-block;
+	margin-right: 2px;
+	text-align: center;
+	text-decoration: line-through;
+	width: 15px;
+}
+#gameover{
+	display: none;
+}
+#gameover.showgameover{
+	display: block;
+}
