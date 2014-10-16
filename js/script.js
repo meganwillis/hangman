@@ -103,7 +103,7 @@ var hangman = {
 		hangman.reset();
 	},
 	randomword: null,
-	wordlist: ['mefan', 'developer', 'apple', 'bellend', 'floor', 'intentional', 'homage', 'business', 'dom', 'cat', 'milkshake', 'ironmonger', 'birthday', 'congratulations', 'february', 'candle', 'kardashian', 'cockjockey', 'rabid', 'fiesta', 'siesta', 'burrito', 'buddha', 'tesco', 'hangman', 'aliens', 'grumble', 'christmas', 'yiddish', 'skiddish', 'flexible', 'tottenham', 'delicious', 'rambunctious', 'trombone', 'socks', 'violin', 'kale', 'nacho', 'soup', 'reconciliation', 'agile', 'market', 'sharpie'],
+	wordlist: ['mefan', 'developer', 'apple', 'bellend', 'floor', 'intentional', 'homage', 'business', 'dom', 'cat', 'milkshake', 'ironmonger', 'birthday', 'congratulations', 'february', 'candle', 'kardashian', 'cockjockey', 'rabid', 'fiesta', 'siesta', 'burrito', 'buddha', 'tesco', 'hangman', 'aliens', 'grumble', 'christmas', 'yiddish', 'skiddish', 'flexible', 'tottenham', 'delicious', 'rambunctious', 'trombone', 'socks', 'violin', 'kale', 'nacho', 'soup', 'reconciliation', 'agile', 'market', 'sharpie', 'roffey'],
 	guesses: [],
 	rightguesses: [],
 	wrongguesses: [],
